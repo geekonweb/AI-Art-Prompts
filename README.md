@@ -12,3 +12,6 @@ Photograph of a [product] | with the text 'inserttexthere' on the [product] | [s
 
 Cartoon movie, [subject], [place], [angle], [lighting], intricate details, rotoscope animation --ar 16:9 --v 5.2 --style raw -
 [![Alt text](images/p3.png)](https://twitter.com/MayorKingAI/status/1709644601101881668)
+
+[subject], [place], [angle], shot in Fujicolor Fujichrome Velvia 100, film colors, [lighting/time of the day] --ar 16:9 --v 5.2
+[![Alt text](images/p4.png)](https://twitter.com/MayorKingAI/status/1712950082692079642)
