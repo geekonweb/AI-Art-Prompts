@@ -1,3 +1,5 @@
+### AI Prompts to Enhance images###
+ 
  1.  **Enhance the Lighting** - "Increase the brightness and warmth of the lighting to make the scene feel more inviting."
 
  3. **Improve Text Clarity** -   "Sharpen and correct the text so it is perfectly legible while maintaining its artistic style."
