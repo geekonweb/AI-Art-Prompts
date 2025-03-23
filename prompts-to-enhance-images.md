@@ -1,7 +1,7 @@
 ### AI Prompts To Enhance Images
  
- 1.  **Enhance the Lighting** - "Increase the brightness and warmth of the lighting to make the scene feel more inviting."
-
+ 1. **Enhance the Lighting** - "Increase the brightness and warmth of the lighting to make the scene feel more inviting."
+ 2. **Gradient Background** - Refine the gradient in the background to transition smoothly from light and warm tones at the top to cooler darker tones at the bottom. 
  3. **Improve Text Clarity** -   "Sharpen and correct the text so it is perfectly legible while maintaining its artistic style."
 
  4.  **Add Depth and Shadows** -   "Enhance the depth by adding subtle shadows under the coffee cup and flowers to give a more realistic 3D effect."
