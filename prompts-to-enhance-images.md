@@ -1,7 +1,7 @@
 ### AI Prompts To Enhance Images
  
  1. **Enhance the Lighting** - "Increase the brightness and warmth of the lighting to make the scene feel more inviting."
- 2. **Gradient Background** - Refine the gradient in the background to transition smoothly from light and warm tones at the top to cooler darker tones at the bottom. 
+ 2. **Gradient Background** - Refine the gradient in the background to transition smoothly from light tones at the top to darker tones at the bottom. 
  3. **Improve Text Clarity** -   "Sharpen and correct the text so it is perfectly legible while maintaining its artistic style."
  4. **Emphasis on Positive Vibes** : "Transform this image to have a more welcoming and positive feel. Make sure the text is easily legible. Apply vibrant yet harmonious colors that evoke happiness and optimism. Consider using brighter shades and ensuring good contrast for readability. The overall impression should be cheerful and inviting."
  5. **Color Suggestions** - Make this image look inviting. The text "Good Morning. Never lose patience; the best things in life happen slowly and unexpectedly." must be clear and easy to read. Use positive colors such as sunny yellows, soft blues, and natural greens. Enhance the lighting to create a bright and optimistic mood. Ensure the focus remains on the central subject while making the background subtly inviting.
