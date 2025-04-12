@@ -1,7 +1,7 @@
 ### AI Prompts To Enhance Images
  
  1. **Enhance the Lighting** - "Increase the brightness and warmth of the lighting to make the scene feel more inviting."
- 2. ** Bokesh Background"  - A softly blurred background with a bokeh effect, pastel colors, and a dreamy, out-of-focus aesthetic. 
+ 2. ** Bokeh Background**  - A softly blurred background with a bokeh effect, pastel colors, and a dreamy, out-of-focus aesthetic. 
  3. **Gradient Background** - Refine the gradient in the background to transition smoothly from light tones at the top to darker tones at the bottom. 
  4. **Improve Text Clarity** -   "Sharpen and correct the text so it is perfectly legible while maintaining its artistic style."
  5. **Emphasis on Positive Vibes** : "Transform this image to have a more welcoming and positive feel. Make sure the text is easily legible. Apply vibrant yet harmonious colors that evoke happiness and optimism. Consider using brighter shades and ensuring good contrast for readability. The overall impression should be cheerful and inviting."
