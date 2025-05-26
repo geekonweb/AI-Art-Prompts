@@ -4,7 +4,7 @@ Creating visually appealing and engaging greeting images involves a combination 
 
 ### 1\. **Background Enhancements**
 
-*  IMP -  "Enhance the background with a soft, bright gradient that complements the main colors in the image."
+*   "IMP - Enhance the background with a soft, bright gradient that complements the main colors in the image."
 *   "Add a subtle bokeh effect to the background for a dreamy, professional look."
 *   "Create a clean, blurred background to emphasize the foreground elements."
 
