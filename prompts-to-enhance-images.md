@@ -1,3 +1,30 @@
+Sure, here are some AI prompts you can use to generate images with similar background light effects:
+
+**General Prompts:**
+
+*   "bokeh lights in the background, soft focus, dreamlike atmosphere"
+*   "blurred fairy lights, warm glow, gentle out-of-focus elements"
+*   "defocused warm string lights, cozy ambiance, subtle light leaks"
+*   "ethereal bokeh, glowing orbs of light, shallow depth of field"
+*   "soft golden hour bokeh, sun flare, dreamy background blur"
+
+**More Specific Prompts (to match the image's feel):**
+
+*   "cozy morning scene, blurred warm lights in the background, soft focus on a cup of coffee and flowers, shallow depth of field"
+*   "hygge aesthetic, warm bokeh lights, a mug and a vase of flowers, soft blanket, inviting atmosphere"
+*   "romantic background lights, soft pink and white flowers, a warm drink, blurred bright spots"
+*   "dreamy Sunday morning, gentle bokeh effect, a warm beverage and a small bouquet, inviting and relaxing"
+
+**Tips for better results:**
+
+*   **Specify color:** "warm golden bokeh," "cool blue fairy lights," "colorful blurred lights."
+*   **Indicate intensity:** "subtle bokeh," "dense bokeh," "sparkling background lights."
+*   **Add context:** "bokeh lights behind a person," "bokeh lights through a window," "bokeh lights at night."
+*   **Use negative prompts (if your AI model supports them):** "no sharp lights," "no harsh reflections," "no distracting elements."
+
+Remember that different AI models (Midjourney, DALL-E, Stable Diffusion, etc.) might interpret prompts slightly differently, so you may need to experiment to get the perfect result.
+
+
 Here are some generic AI prompts you can use to enhance your everyday greeting images and perform post-processing:
 
 **General Enhancement Prompts:**
